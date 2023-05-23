@@ -1,1 +1,4 @@
-This file is harmless. It was no code or other malicious functionality. It exists solely to test connectivity. 
+# This file is harmless. It contains no malicious functionality. It exists solely to test connectivity and proxy filtering. 
+dir
+whoami
+systeminfo
